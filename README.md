@@ -1,39 +1,11 @@
-<!DOCTYPE html>
-<html dir="ltr" lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#f2f2f2">
-  <meta name="robots" content="noindex,nofollow">
-  <title>Computational Reality </title>
-  
-  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Regular-bd03a2cc27.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Bold-cccb897485.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Italic-4eb103b4d1.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-6ee09b0b2f.css" media="screen" />
-  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/58ecd5f7d52ffedb95d07d925fa65563/variables-7dd4b80918af0e0218ec0229e4bd5873.css" media="all" />
-  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/common-37b019788b.css" media="all" />
-  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/wiki_page-bb0c0c1f96.css" media="screen" />
-  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_normal_contrast/bundles/new_user_tutorials-2950c871dd.css" media="screen" />
-  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
-  <link rel="icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+<h1>Computational Reality</h1>
 
-  
-<body class="with-left-side course-menu-expanded padless-content pages primary-nav-expanded full-width context-course_97873 responsive_student_grades_page ff no-touch show" data-rsevent-id="rs_396457">
+<p> This repository is helping to do computations explained in the book <a href="https://link.springer.com/book/10.1007/978-981-10-2444-3" target="_blank" class="external" rel="noreferrer noopener"><span>Computational Reality</span></a>
 
-
-
-  <div id="wrapper" class="ic-Layout-wrapper">
-
-
-
-<div class="show-content user_content clearfix enhanced" data-resource-type="wiki_page.body" data-resource-id="536558">
-  
-    <h1 class="page-title">Computational Reality: Installing SciPy, Docker, FEniCS, ParaView</h1>
+<p>How to install SciPy, Docker, FEniCS, ParaView locally and use them?
   
   
-  
-    <h2>Choose your editor</h2>
+<h2>Choose your editor</h2>
 <p>We need to have an editor for writing any kind of code for 
 computations. A good editor makes the life much easier. There are very 
 simple yet powerful editors, using colors and brackets matching to help 
@@ -204,25 +176,3 @@ the web site <a href="https://www.salome-platform.org/" target="_blank" class="e
 <p>&nbsp;</p>
 <p>Other installation methods:<br><a class="instructure_file_link inline_disabled external" href="https://fenicsproject.org/download/" target="_blank" rel="noreferrer noopener"><span>https://fenicsproject.org/download/</span>
 
-  
-</div>
-</div>
-      </div>
-    </div>
-  </div>
-
-
-
-
-  <script>
-    Object.assign(
-      ENV,
-      {}
-    )
-  </script>
-
-<script>
-//<![CDATA[
-(window.bundles || (window.bundles = [])).push('inst_fs_service_worker');
-//]]>
-</body></html>
